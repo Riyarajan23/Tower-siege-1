@@ -1,2 +1,1 @@
-# Tower-siege-1
-vsc
+# TowerSiege-1
